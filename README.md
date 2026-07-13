@@ -1,7 +1,8 @@
 # Cuenta-Wallet-Weekly-Snapshot
 
 Step 1 — Load the Week
-Step 1 — Load the Week
+
+## Step 1 — Load the Week
 
 Use this prompt:
 
@@ -65,8 +66,11 @@ When information is incomplete, mark it as:
 
 Do not invent missing information.
 
+
 Step 2 — Executive Analysis
-Step 2 — Executive Analysis
+
+
+## Step 2 — Executive Analysis
 
 After all weekly information has been provided, use this prompt:
 
@@ -100,9 +104,9 @@ Also identify:
 
 Separate findings into:
 
-Executive-relevant insights
-Operational supporting details
-Low-impact information
+1. Executive-relevant insights
+2. Operational supporting details
+3. Low-impact information
 
 Identify what should NOT be included in the executive report because it is:
 
@@ -116,8 +120,11 @@ Do not generate the final report yet.
 
 Present only the Executive Analysis.
 
+
 Step 3 — Challenge the Story
-Step 3 — Challenge the Story
+
+
+## Step 3 — Challenge the Story
 
 Before writing the report, challenge your Executive Analysis.
 
@@ -164,8 +171,12 @@ Present the final recommended storyline, including:
 • Biggest business opportunity
 • Main leadership priority
 
+
+
 Step 4 — Generate the Weekly Review
-Step 4 — Generate the Weekly Review
+
+
+## Step 4 — Generate the Weekly Review
 
 Generate the DiDi Cuenta CX Executive Weekly Review for Week [XX].
 
@@ -186,14 +197,14 @@ Requirements:
 
 Use the standard structure defined in this Gem:
 
-Update / Follow-up
-DiDi Cuenta – CX Executive Weekly Review
-Business Performance
-Customer Experience
-Service Performance & Backlog Health
-TPO / Main Contact Drivers
-Recontact Performance
-Executive Takeaways
+1. Update / Follow-up
+2. DiDi Cuenta – CX Executive Weekly Review
+3. Business Performance
+4. Customer Experience
+5. Service Performance & Backlog Health
+6. TPO / Main Contact Drivers
+7. Recontact Performance
+8. Executive Takeaways
 
 For the Update / Follow-up section:
 
@@ -259,8 +270,13 @@ When recommendations refer to an existing initiative, clearly indicate that the 
 
 Do not present existing work as a new recommendation.
 
+
+
 Step 5 — Director Review
-Step 5 — Director Review
+
+
+
+## Step 5 — Director Review
 
 After generating the report, perform a Director Review.
 
@@ -303,3 +319,7 @@ Do not show:
 • Self-corrections
 
 Only present the final improved version.
+
+
+
+
